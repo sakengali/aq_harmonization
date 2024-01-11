@@ -127,7 +127,8 @@ for idx, parameter in enumerate(parameters):
         df_calibration_factors.to_csv('calibration_factors.csv', index=False)
 
 
-#title to the calibration plot
+
 
 #TODO
-#write a new csv, from dataframe, where the first column is sensors, and the others are calibration factors for pm2.5, pm1, co2 etc
+#check this code for airassure sensors
+#convert this code to .ipynb for convenience of running
